@@ -1,0 +1,36 @@
+.jumbotron {
+    padding-top: 200px;
+    padding-bottom: 100px;
+    background-size: cover !important;
+    color: white;
+    height: 400px;
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
+
+.about-column {
+    margin-top: 50px;
+}
+
+.about-column h4 {
+    margin-left: 20px;
+}
+
+.about-column p {
+    margin-left: 40px;
+}
+
+.skills-column {
+    margin-top: 50px;
+}
+
+.skills-column>ul>li {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.footer {
+    padding: 100px;
+    margin-top: 30px;
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+    color: white;
+}
